@@ -1,9 +1,10 @@
 {
   "name": "pmchatbot",
-  "description": "Personal Message Chatting robot. Create your fork now",
+  "description": "Personal Message Chatting Robot. Create Your Fork Now",
   "keywords": ["telegram", "pm", "chat", "bot", "open", "source"],
-  "website": "https://github.com/m4mallu/PMChatbot",
-  "repository": "https://github.com/m4mallu/PMChatbot",
+  "website": "https://github.com/jinspalakkattu/PMChatBot",
+  "repository": "https://github.com/jinspalakkattu/PMChatBot",
+  "logo": "https://telegra.ph/file/b62f9703cf805da50d5c4.jpg",
   "env": {
         "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
